@@ -1,4 +1,4 @@
-# Project Charter – WFM Software Rollout
+# Project Charter
 
 ## Project Purpose
 
