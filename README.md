@@ -23,11 +23,11 @@ Our legacy WFM system was no longer fit for a growing, multi-channel Customer Se
 |----------|-------------|
 | [`project_charter.md`](project_charter.md) | Defines project goals, scope, constraints, stakeholders, and success metrics |
 | [`task_breakdown.md`](task_breakdown.md) | A detailed breakdown of project phases, tasks, and responsibilities |
-| [`gantt_chart.xlsx`](gantt_chart.xlsx) _(optional)_ | Excel version of the Gantt chart for source/reference |
+| [`gantt_chart.xlsx`](gantt_chart.xlsx) | Excel version of the Gantt chart for source/reference |
 
 ---
 
-## 📈 Key Results (Summary)
+## 📈 Key Results
 
 | Metric | Baseline | Target | Outcome |
 |--------|----------|--------|---------|
